@@ -102,7 +102,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lucasmeloil/lucasmeloil/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/leonardodalinky/leonardodalinky/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
