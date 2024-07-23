@@ -107,7 +107,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lucasmeloil/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Lucasmeloil/count.svg?"  />
 </div>
 
 ###
