@@ -107,7 +107,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lucasmeloil/lucasmeloil/main/github-contribution-grid-snake.gif"  />
+  <img src="https://profile-counter.glitch.me/lucasmeloil/count.svg?"  />
 </div>
 
 ###
