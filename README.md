@@ -100,14 +100,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/lucasmeloil/lucasmeloil/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Lucasmeloil/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/lucasmeloil/count.svg?"  />
 </div>
 
 ###
